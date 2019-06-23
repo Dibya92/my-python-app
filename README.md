@@ -1,2 +1,1 @@
-# my-python-app
-python-app
+This is a python application which will be automatically build by a CI server
